@@ -25,7 +25,7 @@ Aprender de forma prática e direcionada os fundamentos do desenvolvimento mobil
 
 🏆 Conquistas até agora
 
-- 🔰 17% do bootcamp completo
+- 🔰 30% do bootcamp completo
 - 🧩 4 de 23 atividades realizadas
 - 🧠 Participação em mentorias ao vivo
 - 💬 Interação com a comunidade nos fóruns
