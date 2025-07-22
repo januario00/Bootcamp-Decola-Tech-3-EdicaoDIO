@@ -1,0 +1,47 @@
+body {
+  background-image: url(imagens/nina.sorrindo.jpg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  margin: 0;
+  padding: 0;
+  font-family: 'Arial', sans-serif;
+}
+
+h1 {
+  text-align: center;
+  color: #fff;
+  font-size: 3em;
+  margin: 20px 0;
+}
+
+img {
+  display: block;
+  margin: 20px auto;
+  border-radius: 10px;
+  width: 500px;
+  background-color: #ccc2c2;
+  padding: 30px;
+}
+
+.primeiro, .segundo {
+  background-color: #ccc2c2;
+  color: black;
+  text-align: justify;
+  padding: 30px;
+  width: 490px;
+  margin: 20px auto;
+  border-radius: 10px;
+}
+
+.subtitle {
+  text-align: center;
+  color: black;
+  background-color: #ccc2c2;
+  font-size: 2em;
+  padding: 20px;
+  width: 490px;
+  margin: 20px auto 10px;
+  border-radius: 10px;
+}
+
